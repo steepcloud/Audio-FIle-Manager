@@ -20,7 +20,7 @@ A simple MP3 music player built in Java using the Swing framework. This applicat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/steepcloud/Audio-File-Manager
 
 2. Open the project in your Java IDE.
 3. Run the `Main` class to start the music player application.
